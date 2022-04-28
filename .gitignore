@@ -123,3 +123,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+data_cleaning/limpio.csv
+
+keras/text_classification/aclImdb/
